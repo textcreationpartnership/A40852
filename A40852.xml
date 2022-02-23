@@ -1,0 +1,267 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The famous history of Guy Earl of Warwick by Samuel Smithson.</title>
+            <title>Guy of Warwick (Romance)</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40852</idno>
+            <idno type="STC">Wing F375</idno>
+            <idno type="STC">ESTC R8795</idno>
+            <idno type="EEBO-CITATION">12029748</idno>
+            <idno type="OCLC">ocm 12029748</idno>
+            <idno type="VID">52723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40852)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52723)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 562:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The famous history of Guy Earl of Warwick by Samuel Smithson.</title>
+                  <title>Guy of Warwick (Romance)</title>
+                  <author>Smithson, Samuel.</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, T. Vere, J. VVright and J. Clarke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[16--?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Guy, --  Earl of Warwick.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52723:1"/>
+            <pb facs="tcp:52723:1" rendition="simple:additions"/>
+            <p>The Famous HISTORY OF <hi>GUY</hi> Earl of <hi>WARWICK.</hi>
+            </p>
+            <p>By <hi>Samuel Smithſon.</hi>
+            </p>
+            <p>Licenſed, and Entered according to Order.</p>
+            <figure>
+               <figDesc>knight on horseback, carrying boar's head on pike</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>F. Coles, T. Vere, J. VVright,</hi> and <hi>J. Clarke.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:52723:2"/>
+            <head>The Famous Hiſtory OF <hi>GUY</hi> Earl of <hi>WARWICK.</hi>
+            </head>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>IN the Bleſſed time of Memory, when King <hi>Athelſtone</hi> wore the Imperial Diadem, and Reigned Regent of our Engliſh Nation, Sir <hi>Guy Warwicks</hi> mirror, and the Worlds Won<g ref="char:EOLhyphen"/>der was the chief Heroe, and Knight of Chivalry in that Golden Age, whoſe Proweſs and bold de<g ref="char:EOLhyphen"/>portments, with his noble Valor, became ſo Peer<g ref="char:EOLhyphen"/>leſs and excellent, ſurpaſſing all his Predeceſſors; that Fames loud Trumpet Sounded <hi>Warwicks</hi> praiſe throughout the World, by which Iews, Turks &amp; Infidels, trembled at the name of <hi>Guy.</hi>
+               </p>
+               <p>But as Mars the God of Battle, was inſpired with the amorous Beauty of <hi>Venus,</hi> ſo our Sir <hi>Guy,</hi> by no Man conquered, was conquered by Love<g ref="char:punc">▪</g> for <hi>Phelice</hi> the fair, (ſo was ſhe called by the Commonalt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) becauſe of her exquiſite beauty and feature, whoſe <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>tue ineſtimoble, with ſuch ſweet modeſt behavior, ſo abundantly overflowing in her Breaſt, that her Graces and her Effigies, made a perfect ſympathy: This bright Heavenly Star, ſhining with ſuch luſtre, that <hi>Guys</hi> poor heart was raviſht with her countenance, from whence
+<pb facs="tcp:52723:2"/> proceeded etherial darts of amity, directed by <hi>Cu<g ref="char:EOLhyphen"/>pids</hi> over-reaching power, that our admired cham<g ref="char:EOLhyphen"/>pion (Sir <hi>Guy</hi>) proſtrated to the Earth, in adora<g ref="char:EOLhyphen"/>tion of his heavenly <hi>Phelice,</hi> and his earthly God<g ref="char:EOLhyphen"/>deſs, whoſe beauty was ſo rare and excellent, that <hi>Hellen</hi> the pride of <hi>Greece,</hi> might ſeem a Black-a-more to our peerleſs <hi>Phelice,</hi> being the Faireſt Creature under the Sun. This heavenly object to <hi>Guys</hi> ſight which ſhon with ſuch glory and ſplen<g ref="char:EOLhyphen"/>dor from the fair face of <hi>Phelice,</hi> cauſed nume<g ref="char:EOLhyphen"/>rous of Contemplations in his Love-ſick mind, which are but meer fancies ſpringing from affecti<g ref="char:EOLhyphen"/>on, leading the overtaking lover into crooked may<g ref="char:EOLhyphen"/>zes, into labyrinths and Seas of troubles: there<g ref="char:EOLhyphen"/>fore Sir <hi>Guy</hi> reſolves to make tryal of his Love deſires, not to ſtand doting on a Womans face of Beauty, but to purſue the onſet according to <hi>Cu<g ref="char:EOLhyphen"/>pids</hi> invitation, by which the Game may be won.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CAAP. II.</head>
+               <p>THus reſolved in his mind he makes his jour<g ref="char:EOLhyphen"/>ney towards <hi>Warwick</hi>-Caſtle, where <hi>Phe<g ref="char:EOLhyphen"/>lice</hi> dwelt (being daughter &amp; heir to the Lord <hi>Ro<g ref="char:EOLhyphen"/>hand Earl of Warwick</hi>) being entred the Caſtle, <hi>Guy</hi> much deſired to ſee the jewel of his heart: the Earl (<hi>Phelices</hi> Father) hearing of <hi>Guys</hi> coming, entertains him with great joy and triumph; After ſome certain time of repoſe, the E. deſired <hi>Guys</hi> good company to recreate themſelves in hunting; but Sir <hi>Guy</hi> feeling the pangs of love beating up<g ref="char:EOLhyphen"/>on his Shipwrackt mind, feeling ſuch deep impreſ<g ref="char:EOLhyphen"/>ſions
+<pb facs="tcp:52723:3"/> made in his heart, by the inchanting looks of <hi>phelice. Guy</hi> feigned himſelf ſick of a contagious diſeaſe, as an anſwer to excuſe what had been re<g ref="char:EOLhyphen"/>queſted. Earl <hi>Rohand</hi> troubled for his friend <hi>Guy,</hi> ſent his own Doctor to aſſuage him of his malady, for the recovery of his well beloved friend; after ſome ſerious diſpute, the Doctor told Sir <hi>Guy,</hi> that his Body was very dangerous and hard to cure, and without letting Blood there was no Re<g ref="char:EOLhyphen"/>medy: Dr. (ſaid <hi>Guy</hi>) I know my body is diſtem<g ref="char:EOLhyphen"/>pered, but you want skill to cure the inward In<g ref="char:EOLhyphen"/>flamation of my Heart, <hi>Galens</hi> Herbal cannot quote the Flower which I lack for my Remedy, but I my ſelf know how my ſickneſs is, both the cauſe, and the effect, and therefore Doctor for your love I am oblieged.</p>
+               <p>The Doctor departed, and left Sir <hi>Guy</hi> in his Love-ſick paſſion, ſighing to ſenceleſs Trees, and chattering Birds, yeilding no comfort to appeaſe his Love Afflictions, but choice of Cogitations ſpringing in his breaſt like an over-flowing foun<g ref="char:EOLhyphen"/>tain, but ſtill his drift was, how and which way to obtain the Flower Preſervative of his Love-diſeaſe; at laſt through times procurement, he caſt his gentle Eyes upon that Heavenly Face of <hi>phe<g ref="char:EOLhyphen"/>lice,</hi> walking in a choice Garden Crown'd with Golden Roſes, and Odoriferious Flowers, her ſelf being Queen of this pleaſant Paradiſe.</p>
+               <p>
+                  <hi>Guy</hi> reſolves to attempt his deſign, and there<g ref="char:EOLhyphen"/>fore intreats ſweet <hi>Cupid</hi> to aſſiſt him; Teach me
+<pb facs="tcp:52723:3"/> (quoth <hi>Guy</hi>) to Woe, to court and kiſs, to dally with loves delight, frame my action, my Speech, my geſture, that I may be to <hi>phelice,</hi> as <hi>phelice</hi> is to me.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III.</head>
+               <p>VVIth ſpeed <hi>Guy</hi> walks to the Garden, being entertained by a Damoſel that waited on fair <hi>phelice,</hi> repoſing of her ſelf in a green Arbor of pleaſure, whom <hi>Guy</hi> ſalutes with bended knee, amazed with her love inchanting Eye, where Cu<g ref="char:EOLhyphen"/>pid appeared in every Corner, as Comets do in their etherial ſtation, ſaying, All hail fair <hi>phelice,</hi> thou mirror of Nature, fair flower of Beauty, and jewel of vertue, 'tis love, fair <hi>phelice,</hi> which was my conductor, and bound me in the burning <hi>Italian</hi> fire, where reſting in torments, hoping in deſpair, I wait the hour of bliſs or minute of miſery, celeſtial Creature made of beauties mold, whom honors &amp; Royal dignities do attend as Stars do wait upon their Queen; be pleaſed to grant and grace my ſuit as <hi>Hero</hi> did to <hi>Leander,</hi> ſo ſhall I think my ſelf happy in thy Cordial love, otherwiſe fatal: com<g ref="char:EOLhyphen"/>pleated by the decree of deſtiny.</p>
+               <p>I know ſweet Lady that great Princes ſeek to win thy love, whoſe exquiſite perfection of Mo<g ref="char:EOLhyphen"/>deſt Nature might ſeem to Grace the Mightieſt Monarch of the World, yet may they all come ſhort of poor <hi>Guys</hi> real affection in whom is Love Pictured with naked truth and honeſty: diſdain me
+<pb facs="tcp:52723:4"/> not for being a Stewards Son one of thy Fathers Servants, for love may abound in me to fair <hi>Phelice,</hi> nay more then any mortal in the world beſides.</p>
+               <p>
+                  <hi>Phelice</hi> interrupted him, and ſaid to <hi>Guy, Ceaſe gentle youth, and leave off this paſſionate affecti<g ref="char:EOLhyphen"/>on, let not doting love ſeduce to ſuch fits of idle<g ref="char:EOLhyphen"/>neſs, you are but young, and alſo meanly born, and therefore you may not love and like where you pleaſe.</hi>
+               </p>
+               <p>
+                  <hi>Love is an idle toy, and feeds your brain with fancies, leading aſtray every young giddy-head<g ref="char:EOLhyphen"/>ed Lover, and as a Frenzy operateth monthly in the brain, and diſturbs the wits with dumpiſh co<g ref="char:EOLhyphen"/>gitations, I would not for a world my Father ſhould know this paſſion, and how thou ſpendeſt thy time in concealed imaginations, thou art un<g ref="char:EOLhyphen"/>fit for my degree, for Honours wait not upon thee, and the Princely Eagle never catcheth Flies.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <p>
+                  <hi>GUy</hi> thus diſcomfited with the harſh words of <hi>Phelice,</hi> cutting more ſharp than two-edged ſwords, lives like one Diſtracted, and in his me<g ref="char:EOLhyphen"/>lancholly mind, tore his golden Hair from his Head, wringing his hands moſt ſadly, overwhel<g ref="char:EOLhyphen"/>med with torments, ſtill continues this love-ſick Man, reſolved to travel throughout the World to find out the love of <hi>Phelice,</hi> or death to end his miſery.</p>
+               <p>Long may Dame Nature frown, whoſe direful
+<pb facs="tcp:52723:4"/> looks makes ſo many ſhipwrackt hearts in the ſea of Sorrow, but when her courſe is run, ſhe wheels about to a poſture of amity, and ſends a ſmile to cure their hearts that were wounded with her frowns; by which means <hi>Cupid</hi> (being the God of Love) and vice-Regent to his Mothers Court, iſſues forth his ſpecial Warrants, ſigned with a golden Dart; and whoſoever denies to appear ac<g ref="char:EOLhyphen"/>cording to the time prohibited, muſt endure the juſt cenſure of their will and mercy, <hi>Cupid</hi> know<g ref="char:EOLhyphen"/>ing his Authority, finding in the Records <hi>Phelice</hi> obſtinacy, ſtraightway ſollicites her to his Mo<g ref="char:EOLhyphen"/>thers Court; and becauſe ſhe ſhould not think that he came only in an idle Dream, ſent a powerful golden Dart, for a real teſtimony, preſenting her a worthy Knight of Chivalry, ſaying, fair <hi>Phelice</hi> love him, nay, thou muſt love him, for thou canſt not withſtand my Power: this valiant Knight, with his bold atchievements, ſhall become ſo fa<g ref="char:EOLhyphen"/>mous in the World, that his Renowned actions ſhall be crowned to everlaſting Poſterity.</p>
+               <p>When fair <hi>Phelice</hi> found her ſelf wounded with the golden Dart of Love, ſhe crys, O Pitty me, ſweet gentle <hi>Cupid,</hi> ſollicite for me to thy mother, &amp; I will offer my life as a ſacrifice to her Alter: O pitty her that has been too too pittileſs, &amp; grace me with the favourable Bow; the Queen of Love from henceforth I'le adore, reſigning all my Ti<g ref="char:EOLhyphen"/>tles, honours, and Royal Dignities, which are un<g ref="char:EOLhyphen"/>fit for me, let her be Graced with them, whilſt
+<pb facs="tcp:52723:5"/> I remain a Servant to her Love, Will and plea<g ref="char:EOLhyphen"/>ſure.</p>
+               <p>
+                  <hi>Guy</hi> little dreaming of this ſudden thaw, and wanting the balm of love to apply to his wounded ſores, reſolves to make a Second Encounter in Loves enterprize, expecting nothing but death and deſtiny; ſo coming again to fair <hi>Phelice,</hi> gives fire with this charge, ſaying; Fair Lady, I have been arraigned long ago, and now am I come to re<g ref="char:EOLhyphen"/>ceive my juſt ſentance from the Theatre of love; 'tis life or death fair <hi>Phelice</hi> as I look for, let me not lye languiſhing in deſpair; give judgement, fair <hi>Phelice,</hi> give Iudgement, that I may know my doom; a Word from thy ſacred Lip can cure my bleeding heart, a frown can doom me to the pit of miſery, how happy are they (ſweet <hi>Phelice</hi>) that live in loves amity, but Three-fold miſery attends that Lover that lives in hate by his Mi<g ref="char:EOLhyphen"/>ſtris.</p>
+               <p>Gentle <hi>Guy,</hi> ſaid <hi>Phelice,</hi> Love is not at my diſpoſing, you know my Fathers name is great in the Nation, and I dare not match without his conſent.</p>
+               <p>For that, ſweet Lady, I make no doubt, but quickly to obtain both his love and liking, if mar<g ref="char:EOLhyphen"/>tial deeds may win his love and favour, i'le ven<g ref="char:EOLhyphen"/>ture through the World with a noble reſolution; let me have thy love firſt fair <hi>phelice,</hi> and there is no fear of thy Fathers wrath to prevent us, it is an old ſaying, get the good will of the Daughter,
+<pb facs="tcp:52723:5"/> and her Parents love will ſoon be attained after.</p>
+               <p>Sir <hi>Guy,</hi> quoth <hi>phelice</hi> make thy bold atchieve<g ref="char:EOLhyphen"/>ments, and noble actions ſhine abroad as the glorious Sun, that all oppoſers may tremble at thy high applauded name, and thy ſuit ſhall not be denyed.</p>
+               <p>Fair <hi>phelice</hi> (ſaid <hi>Guy</hi>) I ask no more, never did the Hound mind more his game, than I do my enterprize, <hi>phelice,</hi> farewel, take this joyal Kiſs as a ſignet from my heart.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <p>THus noble <hi>Guy</hi> being at laſt enlarged from the thraldome of loves cruelty, now arms himſelf like a Knight of Chivalry, and prepares for to croſs the ſurging Ocean, which hapning ac<g ref="char:EOLhyphen"/>cording to his expectation, he did ſoon arrive in the Realm of <hi>France,</hi> where he heard of mighty mat<g ref="char:EOLhyphen"/>ters to be performed in <hi>Normandy,</hi> which War<g ref="char:EOLhyphen"/>like Muſick did raviſh his greedy ear, for the Em<g ref="char:EOLhyphen"/>perors Daughter of <hi>Almain</hi> was made a Prize for him that won her in the field, fair <hi>Blanch,</hi> (for ſo the Emperors Daughter was called) was ſpred throughout all Chriſtendom, upon which report the Worthies of the World came thither for to try their Fortune, the Golden Trumpets Sounded with great joys and Triumphs, and the ſtately pampered Steeds proudly ſtampt upon the ground, and each one there thought himſelf a <hi>Coeſar</hi> that could abide no equal, Kings and Princes being there to behold who ſhou<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Conquerour,
+<pb facs="tcp:52723:6"/> every one thinking that fair <hi>Blanch</hi> ſhould be his own. After deſperate charging with Horſe and Man, much blood was ſhed, and Princes no more valued then vulgar Peaſants, but our noble <hi>Guy</hi> appearing in his Warlike poſture, laid about him like a Devil upon the Princes, there lay one head<g ref="char:EOLhyphen"/>leſs, there another without a Leg or an Arm, there lay a Horſe ſprawling in his blood, <hi>Guy</hi> ſtill like <hi>Hercules</hi> charged deſperately, and killed a <hi>Ger<g ref="char:EOLhyphen"/>man</hi> Prince and his Horſe under him; Duke <hi>Ot<g ref="char:EOLhyphen"/>ten</hi> vowing revenge upon our <hi>Engliſh</hi> Champion, gave <hi>Guy</hi> a freſh aſſault, but his courage was ſoon cooled; then Duke <hi>Rayner</hi> would ingage with our famous Knight, but as little ſucceſsful as the reſt, ſo that no man would encounter <hi>Guy</hi> any more, by which valor he won the Lady in the field as a prize, being the approved Conqueror.</p>
+               <p>The mighty Emperor being ſpectator of his no<g ref="char:EOLhyphen"/>ble deſign, and ſeeing our <hi>Engliſh</hi> Kt. ſo Valiant, ſent a Meſſenger for him: <hi>Guy</hi> coming into the Emperors preſence, giveth to his Majeſty reverend obeyſance, and the Emperor as a token of his real affection, gave him his hand to kiſs, and withal re<g ref="char:EOLhyphen"/>ſigned his Daughter, the Falcon and the Hound, as the maſter-prize of his conqueſt; <hi>Guy</hi> humbly thankt his Maieſty for his gracious favour, but for <hi>Phelice</hi> ſake, left fair <hi>Blanch</hi> to her fathers tuiti<g ref="char:EOLhyphen"/>on, and departed from that graceful Court onely with the other pledges.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb facs="tcp:52723:6"/>
+               <head>CHAP. VI.</head>
+               <p>NOw <hi>Guy</hi> begins to meditate upon his long abſence from his Fair <hi>Phelice,</hi> doubting of her proſperity, or that ſhe might too much forget him becauſe the Proverb ſays, <hi>Out of ſight, out of mind,</hi> therefore <hi>Guy</hi> upon this conſideration prepared for <hi>England,</hi> and at laſt arrived at the long wiſhed for Haven of Love, and with this kind of ſalutation, greets his beloved Miſtris: Fair foe, ſaid <hi>Guy,</hi> I now am come to challenge the Lega<g ref="char:EOLhyphen"/>cies of Love according to your laſt promiſe, which was upon making my name famous by Martial deeds, I ſhould be the Maſter of my Beloved Mi<g ref="char:EOLhyphen"/>ſtris: behold fair <hi>Phelice</hi> part of my prize which I won in open field before Kings and Princes, and ſince this conqueſt, I cannot find any man but Cowards in the World.</p>
+               <p>Quoth <hi>Phelice,</hi> Worthy Knight, I have heard of thy winning the Lady <hi>Blanch</hi> from Royal Dukes and Princes, and I am much rejoyced to think my <hi>Guy</hi> ſhould be ſo Victorious: But truly <hi>Guy</hi> thou muſt ſeek out for more Adven<g ref="char:EOLhyphen"/>tures.</p>
+               <p>
+                  <hi>Guy</hi> ſomething diſcomfited at this anſwer, wi<g ref="char:EOLhyphen"/>ſhes himſelf amongſt the midſt of battles, taking his leave of Fair <hi>phelice,</hi> Clad himſelf afreſh in <hi>Bellona's</hi> arms, and aſpiring now to the heighth of Reputation, Travelled toward <hi>Sedgwin</hi> Duke of <hi>Lovane,</hi> againſt whom the Emperor of <hi>Almain</hi> lay in ſiege, but as <hi>Guy</hi> was going his pretended
+<pb facs="tcp:52723:7"/> journey, Duke <hi>Ottea</hi> (whom <hi>Guy</hi> had diſgraced in Battle) hired ſixteen Traytors to ſlay him, <hi>Guy</hi> being ſet upon by theſe Rebels, drew his Sword and fought in blood up to the Ears, until at laſt he had ſlain all theſe Traytors according to their deſerts, leaving them to the Fowls of the Air to feed upon. This ſtorm being thus happily over, <hi>Guy</hi> comes happily to the Duke of <hi>Lovane</hi> cloſe beleagur'd round about with the <hi>Almains</hi> power, and little reſiſtance did the Duke make againſt the Emperor. <hi>Guy</hi> cauſed the <hi>Lovanians</hi> to iſſue forth upon the cowardly <hi>Almains,</hi> and made ſuch a bloody ſlaughter amongſt them, that they were much diſheartned, but the Emperour gathered new Forces, and beſieged it again, thinking to ſtarve them out with hunger, but <hi>Guy</hi> ſtanding on the Walls threw them victuals in abundance, that the Emperor might ſee that they had ſtore of proviſion, &amp; when <hi>Guy</hi> perceived their bodies better fed than taught, ſallyed out upon the <hi>Almains</hi> Guards, cutting off Horſe and Man, that above thirty thou<g ref="char:EOLhyphen"/>ſand were ſlain of the <hi>Almains</hi> in theſe 2 Battles, the Fields overflown with crimſon blood, but <hi>Guy</hi> got more Fame and Praiſe in making a Perfect League and Peace with the Emperor and the Duke, than he did in his former Conqueſt, whoſe noble Head deſerved to be crowned with Trophies to everlaſting Memory.</p>
+               <p>A perfect Peace being concluded between theſe two mighty Princes, noble <hi>Guy</hi> took a Thou<g ref="char:EOLhyphen"/>ſand
+<pb facs="tcp:52723:7"/> Chriſtians, to fight with Turks, Iews, or Infidels, and coming into the midſt of Battels, where theſe Heathens were Fighting, <hi>Guy</hi> with his Chriſtian Souldiers made a mighty ſlaughter of theſe Infidels, inſomuch that they Wondered at his great ſucceſs and victory, at which <hi>Coldran,</hi> a mighty Pagan, challenged <hi>Guy</hi> at a ſingle com<g ref="char:EOLhyphen"/>bat, ſo to cutting they went, and our noble <hi>Guy</hi> brought him to the ground, then <hi>Morgadour,</hi> a Gy<g ref="char:EOLhyphen"/>ant, went to revenge his Brothers wrong, but <hi>Guy</hi> conquer'd him and all the Pagan Champions which made them leave the fields, and went for ſecurity into the Town, where the Governour a blood-thirſty Villain proudly came to <hi>Guys</hi> Tent, and Demanded a Duel, ſaying, That he had pro<g ref="char:EOLhyphen"/>miſed his head to a Lady; but when they ruſht together deſperately, <hi>Guy</hi> being too couragious for his Valor, <hi>Eskeldart</hi> fled away to ſave his own head upon his ſhoulders, <hi>Guy</hi> meaning to crown his conqueſt with more Grace, Challenged the mighty Souldan, the Pagans chief General, &amp; as the reſt were ſlain by his conquering hand, ſo the mighty Souldan was brought to the Ground, and perceiving his life a departing, in diſdain of Chri<g ref="char:EOLhyphen"/>ſtianity he ſlung whole handfuls of blood at <hi>Guy,</hi> thus were the Pagans conquered by our <hi>Engliſh</hi> Champion.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <p>AFter this tedious fight, on his travel he came to a ſilver Spring, which Water was more
+<pb facs="tcp:52723:8"/> ſweet then wine to his appetite, repoſing his wea<g ref="char:EOLhyphen"/>ried limbs for a while: at laſt he heard a moſt hi<g ref="char:EOLhyphen"/>deous noiſe, as if the Devil had been a Progreſs, being guided by his liſtning ear, he eſpyed a Lyon &amp; a Dragon a fighting, biting &amp; taring one another with their maſſy nails, that blood iſſued forth like an overflowing Fountain, but the Lyon began to faint, which <hi>Guy</hi> perceiving, he encountered the Dragon with ſuch noble magnitude, making this ugly <hi>Cerberus</hi> to yell &amp; rore like the fiends of hell, at laſt down came the Dragon; thus <hi>Guy</hi> adding more glory to his former victories, went away as conqueror; the Lyon for the love of <hi>Guy</hi> run by his horſe like a Spaniel, till lack of food made him retire to his wonted aboad.</p>
+               <p>So <hi>Guy</hi> now travelling to the Duke of <hi>Lovane,</hi> met by the way Earl <hi>Terry,</hi> ſet upon by ſixteen Traytors in a wood, who had taken away his La<g ref="char:EOLhyphen"/>dy; <hi>Guy</hi> demands of the Earl, which way the vil<g ref="char:EOLhyphen"/>lains were gone, at laſt <hi>Guy</hi> overtook them, and fell upon theſe bloody Traytors, and kill'd eight of them preſently; the Lady ſeeing ſo much Blood ſhed, deſired <hi>Guy</hi> to ſpare their lives that were left, and according to her requeſt he did, reſtoring the Lady to her own Lord and Husband.</p>
+               <p>Now as <hi>Guy, Terry,</hi> and <hi>Oſille</hi> went about the woods, they heard a moſt terrible noiſe which much affrighted theſe friends and lovers: at laſt they met a friend, who told Lord <hi>Terry,</hi> That Duke <hi>Otten</hi> had ſtraightly <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t his Father a<g ref="char:EOLhyphen"/>bout
+<pb facs="tcp:52723:8"/> the Caſtle, and threatned to pull down the Tower about his ears, no ſooner noble <hi>Guy</hi> hear<g ref="char:EOLhyphen"/>ing Duke <hi>Ottens</hi> Name (that grand Traytor) but he and the Lord poſted thither, and freed the Caſtle immediately, and <hi>Guy</hi> in open field ſlew Duke <hi>Otten</hi> hand to hand, but his dying words of repentance moved <hi>Guys</hi> heart to remorſe &amp; pitty. But as <hi>Guy</hi> returned through a Deſart, he met a hugious Boar that had ſlain many Chriſtians, <hi>Guy</hi> manfully drew out his ſword, &amp; the brutiſh Boar gaped with his dreadful tuſks intending to devour our Noble Champion, but <hi>Guy</hi> quickly cooled his courage, and killed the mightieſt Boar as ever Mortal beheld.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <p>NOw noble <hi>Guy</hi> is bound for <hi>England,</hi> and a<g ref="char:EOLhyphen"/>riving in his native Country, news came to K. <hi>Athelſtone</hi> of <hi>Guy's</hi> arrival, being in the Fa<g ref="char:EOLhyphen"/>mous City of <hi>York,</hi> where after due reverence to his Majeſty, the K. told <hi>Guy</hi> of a Mighty Dragon that had Deſtroyed both Men, Women, &amp; children, annoying grievouſly the Countrey of <hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> and many worthy Knights had engaged their lives to ſlay this Deadly Monſter, but all were killed, and none could kill him. <hi>Guy</hi> deſired to have a Guide, ſo coming to the Dragons Cave, out ſtarts this hideous Monſter whoſe eyes did Burn like flaming fire, and <hi>Guy</hi> charged the Dragon moſt deſperately, but the hideous Monſter bit his Lance in two like a reed, with that <hi>Guy</hi> drew his
+<pb facs="tcp:52723:9"/> Sword, and cut gaſhes in the Dragons ſide, that filthy blood iſſued out from his venemous carkaſs, wounding every part about him, that down came <hi>Cerberus</hi> to the ground, noble <hi>Guy</hi> cut off the Monſters head, &amp; gave it to the King as a preſent, whoſe direful countenance being dead, would af<g ref="char:EOLhyphen"/>fright the living, and for <hi>Guys</hi> praiſe and memory King <hi>Athelſtone</hi> cauſed the picture of the Dragon (being 30 foot in length) to be wrought in cloath of Arras, and hung up in <hi>Warwick</hi> Caſtle, for an everlaſting Monument.</p>
+               <p>After all theſe bold atchievements performed by noble <hi>Guy, phelice</hi> hearing of <hi>Guys</hi> Fame, and how he killed that ugly Dragon, came and met him at <hi>Lincoln,</hi> where after ſome pretty conceited Sa<g ref="char:EOLhyphen"/>lutations, imbraceing each other in love purity, &amp; balmed kiſſes: The happy day of Marriage was ap<g ref="char:EOLhyphen"/>pointed betwixt noble <hi>Guy</hi> and fair <hi>phelice,</hi> King <hi>Athelſtone</hi> and his Queen were invited to this Royal Nuptial, with all the Princes, Nobles, and Barons of the Land, which Marriage was Cele<g ref="char:EOLhyphen"/>brated with much Ioy and Triumph.</p>
+               <p>No ſooner was this Royal Nuptial compleat<g ref="char:EOLhyphen"/>ed, but Earl <hi>Rohand, phelices</hi> Father, dies, and leaveth to his Son <hi>Guy</hi> all his Earldome and Lordſhips, and the King to grace Sir <hi>Guy</hi> for all his Worthy actions, Created him Earl of <hi>War<g ref="char:EOLhyphen"/>wick,</hi> in Rank and Quality of all the Nobles of the Land.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb facs="tcp:52723:9"/>
+               <head>CHAP. IX.</head>
+               <p>IN the height of <hi>Guys</hi> glory, being thus exalted to all his Fathers dignities, Conſcience biddeth him to relent for all his former ſins, &amp; his youth<g ref="char:EOLhyphen"/>ful time ſpent in the behalf of a Woman: There<g ref="char:EOLhyphen"/>fore <hi>Guy</hi> reſolved to be converted into another po<g ref="char:EOLhyphen"/>ſture, and like a Pilgrim intends to travel to the Holy Land; <hi>phelice</hi> perceiving the ſudden altera<g ref="char:EOLhyphen"/>tion, inquires of her Lord what was the cauſe of this ſad paſſion: Ah <hi>phelice,</hi> ſaid he, I have ſpent much time in honouring thee, and to win thy Fa<g ref="char:EOLhyphen"/>vour, but never ſpared one minute for my Souls health in honouring the Lord; <hi>phelice</hi> (though much grieved) underſtanding his Determination, ſtrove not to oppoſe his will, but with exchanging their Rings and melting kiſſes; <hi>Guy</hi> departs like a ſtranger from his own habitation, taking neither money nor ſcrip with him, but cold herbs &amp; roots, ſuch as the Wild Fields afforded was his chiefeſt dyet, vowing ne'r to fight more but in a juſt cauſe.</p>
+               <p>
+                  <hi>Guys</hi> intended Iourney was to go to <hi>Jeruſalem,</hi> but travelling many tedious miles, he met with an aged man oppreſt with ſorrows, for a maſterleſs Gyant had taken 15 of his Sons from him, and kept them in a ſtrong captivity, <hi>Guy</hi> (like a Pil<g ref="char:EOLhyphen"/>grim being at that preſent) demanded in love of the old man the cauſe of his grief, which <hi>Guy</hi> un<g ref="char:EOLhyphen"/>derſtanding, borrowed the old Mans Sword and went to the Caſtle Gate where the Gyant dwelt, who coming to the door, asked <hi>Guy</hi> what was his
+<pb facs="tcp:52723:10"/> buſineſs to come thither, or how durſt you, (quoth <hi>Amarant</hi>) (for ſo was the Gyant called,) knock ſo boldly at my Gates? for this I vow by all my Gods to ſplit thy brains aſunder.</p>
+               <p>
+                  <hi>Guy</hi> laughing to ſcorn this maſſy Gyant; ſaid Sirra, it ſeems you are very quarrelſome, come, thou hound Dog; I have a ſword that ſhall main<g ref="char:EOLhyphen"/>tain my cauſe, which have hewed ſuch Lubbards as thou art often aſunder, and therewithal <hi>Guy</hi> ſaid about the Gyants ſhoulders with a keen and maſſy blade, that the Gyant bled abundantly, and <hi>Amarant</hi> heaving up his club in the air thought to have kill'd him quickly, but noble <hi>Guy</hi> was nim<g ref="char:EOLhyphen"/>ble, cutting on the Gyants pillars, inſomuch that he began to faint, deſiring a little reſpit to quench his vehement thirſt, which our noble <hi>Guy</hi> granted. So <hi>Amarant</hi> having ſlack'd his draught, they fell too't pell mell; yet all the Gyants blows fell in vain on the ground, who being much enraged thereat, ſlung his Club at <hi>Guy,</hi> and beat him down, and ere that he could recover, got up his Club again; at the concluſion <hi>Guy</hi> kill'd this trip<g ref="char:EOLhyphen"/>ple headed Dog, and releaſt divers Captives that had been in Thraldome many years: Some were even ſtarv'd to death, ſome hung up by the thumbs, ſome were hung about the middle, others were hanging with their heads downward, which ſweet deliverance cauſed much joy and thankfulneſs, but <hi>Guy</hi> delivered both the Caſtle and the Keys to the Old Man and his fifteen Sons, deſiring that no
+<pb facs="tcp:52723:10"/> wrong might be impoſed upon Women.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CHAP. X.</head>
+               <p>GAining this freedom for the Captives, <hi>Guy</hi> went on his intended journey, and comming to a Grave, found a dead skull all Worm-eaten, with which <hi>Guy</hi> converſed, ſpeaking to the ſcalp, and making anſwer for the Head; Perhaps, ſaid <hi>Guy,</hi> thou wert a Prince or mighty Monarch, a King, Duke, or Lord? But the Beggar and the King muſt all to the Earth, and therefore Man had need to remember his dying hour: Perhaps thou mighteſt be a Queen, Dutcheſs, or Lady, garniſht with beauty, but now thou art but worms meat, lying in the Grave, a Sepulchre for all creatures.</p>
+               <p>And whilſt <hi>Guy</hi> was in this repenting ſolitude, <hi>phelice</hi> like a mourning Widdow, cloathed her ſelf in ſable attire, to expreſs her inward grief and ſorrow, vowing chaſtity in the abſence of her beloved Husband; which pattern of ſobriety may be crowned to everlaſting memory, for her whole delight was in Divine meditations, heavenly con<g ref="char:EOLhyphen"/>ſolations, and praying for the welfare of her Be<g ref="char:EOLhyphen"/>loved Lord, alſo in conceit ſhe travelled with him, for her heart was fixed moſt abſolutely upon him, ſhedding many bitter tears, fearing that ſome ſa<g ref="char:EOLhyphen"/>vage Monſter had devour'd him, or that Death had ended his Date before his Natural courſe, o<g ref="char:EOLhyphen"/>therwiſe ſhe thinks that he ſits by a River ſide, and ſwells the water with weeping and hearing
+<pb facs="tcp:52723:11"/> in conceit, as an Eccho, his voice, <hi>phelice, phe<g ref="char:EOLhyphen"/>lice,</hi> 'tis thee I love.</p>
+               <p>Thus <hi>phelice</hi> ſpent the remnant of her life in ſorrow for her dear Lord, and to ſhew her humili<g ref="char:EOLhyphen"/>ty, ſhe ſold her jewels, and coſtly robes, with which ſhe uſed to grace King <hi>Athelſtones</hi> Queen, and gave the Money freely to the Poor, and in this vertuous act ſhe did excell all the Ladies of the Land, for none but <hi>phelice</hi> won the hearts of the people; ſhe relieved the Lame, and the Blind, the Widdow and the Fatherleſs, and all thoſe that came to crave an alms, ſhe gave it to them freely, building a large Hoſpital for aged and ſick people, that they might be comforted in their weak condi<g ref="char:EOLhyphen"/>tions, and according to this rule ſhe laid up her treaſure in Heaven, which will be repaid again with life everlaſting.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI.</head>
+               <p>WHilſt <hi>phelice</hi> was ſo excellent in her gra<g ref="char:EOLhyphen"/>ces, <hi>Guy</hi> her beloved Husband Travelled through many Lands and Nations: At laſt in this weary Iourney, <hi>Guy</hi> met with Earl <hi>Terry</hi> his ſworn Brother, who had been exiled from his Na<g ref="char:EOLhyphen"/>tion by a Maſterleſs Traytor; <hi>Guy</hi> bid him not be diſmaid: for, ſaith he, Earl <hi>Terry,</hi> i'le venture my life for your reſtoration to your former honour and dignities, the Earl thanked <hi>Guy</hi> very courte<g ref="char:EOLhyphen"/>ouſly, ſo walking together againſt <hi>Terrys</hi> enemy, <hi>Guy</hi> challenged him into the field, &amp; couragiouſly ſlew the Traytor hand to hand, and ſet the Earl in
+<pb facs="tcp:52723:11"/> all his former places of honour, Earl <hi>Terry</hi> deſi<g ref="char:EOLhyphen"/>red to know his Champions name, but <hi>Guy</hi> told him a ſecret now had otherwiſe confin'd him, nor would <hi>Guy</hi> take any gratuity for his Love.</p>
+               <p>Thus noble <hi>Guy</hi> was ſucceſsful in all his vali<g ref="char:EOLhyphen"/>ant actions, &amp; finding his head to be crowned with ſilver hairs; after many years travel, <hi>Guy</hi> is re<g ref="char:EOLhyphen"/>ſolved (if the Heavens had decreed it) to lay his aged bones in his own Native country, for by na<g ref="char:EOLhyphen"/>tures courſe <hi>Guy</hi> found that his Glaſs had but a little ſand, and therefore returning from the Holy Land, he comes for <hi>England,</hi> and being arrived on his Native ſhore, he found the nation in great diſtreſs, for the Bloody <hi>Danes</hi> had invaded the Land, deſtroying the Country, burning Cities, Towns and Villages, killing Men, Women and children in a moſt barbarous and bloody manner, inſomuch that King <hi>Athelſtone</hi> was forced to flie to the invincible City of <hi>Wincheſter</hi> for the ſafe<g ref="char:EOLhyphen"/>guard of his life, which Town was ſtrongly wall<g ref="char:EOLhyphen"/>ed round about, and no Cannons were uſed in thoſe Days, but he was the beſt Champion that won his conqueſt by the ſword.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII.</head>
+               <p>THe <hi>Danes</hi> having intelligence of King <hi>Athel<g ref="char:EOLhyphen"/>ſtones</hi> being at <hi>Wincheſter,</hi> drew all their for<g ref="char:EOLhyphen"/>ces thither, and ſéeing there was no means to win the City, the Bloody <hi>Danes</hi> ſent in a Summons to K. <hi>Athelſtone,</hi> deſiring that an <hi>Engliſh-man</hi> might combate with a <hi>Dane,</hi> and that ſide to looſe all that had their Champion kill'd.</p>
+               <pb facs="tcp:52723:12"/>
+               <p>Vpon this, mighty <hi>Colbrond</hi> ſingles himſelf from the <hi>Danes,</hi> and entred into <hi>Hide-Mead</hi> near <hi>Wincheſter,</hi> breathing out venemous words, cal<g ref="char:EOLhyphen"/>ling the <hi>Engliſh</hi> cowardly Dogs, &amp; that he would make their Carcaſſes meat for Crows and Ra<g ref="char:EOLhyphen"/>vens: Is now ſaid <hi>Colbrond</hi> all your Engliſh courage become ſo Timerous that you dare not fight? What mighty boaſting hath there been in forraign nations of theſe <hi>Engliſh</hi> Cowards, as if they had done deeds of Wonder, who now like Foxes hid their heads, ſaying, <hi>It is ſafe ſleeping in a whole skin.</hi>
+               </p>
+               <p>
+                  <hi>Guy</hi> hearing the proud diſdain of <hi>Colbrond,</hi> could no longer forbear, but preſently goes to K. <hi>Athelſtone,</hi> &amp; beg'd this Combat upon his knees at the Kings gracious hand, the K. liking well the courage of the Pilgrim, for ſo was <hi>Guy</hi> Ha<g ref="char:EOLhyphen"/>bited (unknown to all the <hi>Engliſh</hi> Nobility) he bid him go on and proſper, ſo <hi>Guy</hi> walked forth of the North-gate unto <hi>Hide-mead</hi> where <hi>Colbrond,</hi> the <hi>Danes</hi> mighty Champion was treading every ſtep two yards of ground.</p>
+               <p>When <hi>Colbrond</hi> eſpyed <hi>Guy</hi> in his Palmers Weed, the Gyant diſdained him with much ire &amp; ſcorn, ſaying, Art thou the beſt Champion <hi>Eng<g ref="char:EOLhyphen"/>land</hi> can afford, for the honour of their K. Crown and Country: Gyant, quoth <hi>Guy,</hi> your words are tedious, and it is uncivil for profeſſed Champions to rail, filling the ayr with idle Wind, I have a Sword that ſhall be my Orator, and make deep ex<g ref="char:EOLhyphen"/>preſſions
+<pb facs="tcp:52723:12"/> in thy blood, no longer ſtood they to par<g ref="char:EOLhyphen"/>ly, but with great vigor and courage they fought manfully, but <hi>Guy</hi> cut upon the Lubbards carcaſs that he bled moſt deſperately, <hi>Colbrond</hi> being mo<g ref="char:EOLhyphen"/>ved to chollor, was mighty vehement againſt <hi>Guy,</hi> and his heart could have eat him up at a mouth<g ref="char:EOLhyphen"/>ful, watching for to break his ſword with his knot<g ref="char:EOLhyphen"/>ted club; but <hi>Guy</hi> was ſo nimble that in vain <hi>Col<g ref="char:EOLhyphen"/>brond</hi> ſtruck, for every blow lighted upon the ground, <hi>Guy</hi> ſtill laid about him like a Devil, which gave ſome encouragement to the <hi>Engliſh:</hi> but <hi>Colbrond</hi> in his combat began to faint, and bid <hi>Guy</hi> ſue for mercy at his hands, and ſo leave fighting. No, coward, ſaith <hi>Guy,</hi> i'le have thy life or elſe Ile looſe my own; for the King hath ven<g ref="char:EOLhyphen"/>tured his crown on my behalf, and therefore know Traytor I am reſolved to fight while breath re<g ref="char:EOLhyphen"/>maineth in my Body, with that <hi>Guy</hi> lent him ſuch a mighty ſtroke which made a wide rupture in the Gyants fleſh, that corrupted blood iſſued out, the next blow brought the Gyant to the ground, which the Engliſh ſeeing, they ſhouted with ſuch joy and acclamation, that peals of ecchoes rung in the air. After this conqueſt won by the Engliſh, the <hi>Danes</hi> all departed to their own countrey.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII.</head>
+               <p>King <hi>Athelſtone</hi> ſent for his Champion to ho<g ref="char:EOLhyphen"/>nour him, but <hi>Guy</hi> refuſed it, ſaying my Liege, I am a mortal man, and therefore ſet the vain World at defiance, but by earneſt requeſt of the
+<pb facs="tcp:52723:13"/> King upon promiſe of concealment, <hi>Guy</hi> told the King his name, which ſo much rejoyced his heart, that he embraced his worthy Champion, but <hi>Guy</hi> took leave of his Soveraign, and as an unknown ſtranger went into the Fields; and made him a Cave living very penſive and ſolitary: and his dy<g ref="char:EOLhyphen"/>ing hour drawing on, <hi>Guy</hi> ſent a meſſenger with the Ring to <hi>phelice,</hi> which ſhe ſeeing, came with all ſpeed to her beloved Lord, where with weeping joy they embrac'd each other, <hi>Guy</hi> departed his life in her tender arms, and was honourably In<g ref="char:EOLhyphen"/>terred, his Widdow taking grief for the death of her Husband, dyed within fifteen days after him, but K. <hi>Athelſtone</hi> to grace the everlaſting memo<g ref="char:EOLhyphen"/>ry of <hi>Guy,</hi> cauſed many monuments to be erected in <hi>Warwick</hi>-Caſtle, that after ages might ſpeak of the noble fame and Honour of <hi>GUY</hi> Earl of <hi>WARWICK.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:52723:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
